@@ -5,7 +5,7 @@ from typing import Final
 from model import Weather, dt
 
 # Constants
-API_KEY: Final[str] = '4d18b09dc3cf1463486f02312b9b663b'
+API_KEY: Final[str] = 'YOUR-KEY'
 BASE_URL: Final[str] = 'https://api.openweathermap.org/data/2.5/forecast'
 
 
