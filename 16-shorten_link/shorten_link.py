@@ -1,7 +1,7 @@
 from typing import Final
 import requests
 
-API_KEY: Final[str] = "e78fcbcd8457cd705f0c075633fd3908"
+API_KEY: Final[str] = "YOUR-KEY"
 BASE_URL: Final[str] = "https://cutt.ly/api/api.php"
 
 
