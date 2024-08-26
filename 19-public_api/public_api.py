@@ -35,6 +35,6 @@
 
 import requests
 
-request = requests.get('https://hamidrezaei6.pythonanywhere.com/api/random?number=19700')
+request = requests.get('URL')
 data = request.json()
 print(data)
