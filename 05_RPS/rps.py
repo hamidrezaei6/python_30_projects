@@ -1,7 +1,8 @@
+
 import random
 import sys
 
-
+print("armita")
 class RPS:
     def __init__(self):
         print('Welcome To RPS!')
